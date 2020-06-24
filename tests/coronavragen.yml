@@ -1,0 +1,12 @@
+- type: MC4ver
+  vraag: In welk land is het coronavirus ontstaan?
+  antwoord: China
+  afleider1: België
+  afleider2: Italië
+  afleider3: Antarctica
+- type: MC4ver
+  vraag: Wat is de officiële naam van het coronavirus?
+  antwoord: Covid-19
+  afleider1: SARS
+  afleider2: influenza
+  afleider3: corona

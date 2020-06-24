@@ -1,2 +1,5 @@
+click
+jinja2
 nose
 sphinx
+yaml
