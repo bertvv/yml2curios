@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE questestinterop SYSTEM "../inc/validate.dtd">
-<questestinterop>
-  <section ident="section_18432" title="coronavragen">
-    <itemref linkrefid="coronavragen_00002.zip"/>
-    <itemref linkrefid="coronavragen_00001.zip"/>
-
-  </section>
-</questestinterop>
